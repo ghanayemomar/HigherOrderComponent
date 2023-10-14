@@ -4,4 +4,4 @@ This is a basic example illustrating the concept of a Higher-Order Component (HO
 
 ## Overview
 
-A Higher-Order Component (HOC) is a pattern in React where you wrap a component with another component to enhance or modify its behavior. In this example, we'll create a HOC called `withCounter` that adds a click counter to a component.
+A Higher-Order Component (HOC) is a pattern in React where you wrap a component with another component to enhance or modify its behavior.
